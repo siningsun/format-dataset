@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "input": "Headline: \"Gold falls to Rs 30,800; silver down at Rs 41,200 per kg\" Now answer this question: Does the news headline talk about price in the past? Yes\n\nHeadline: \"gold futures add to gains after adp data\" Now answer this question: Does the news headline talk about price? Yes\n\nHeadline: \"Gold holds on to modest loss after data\" Now answer this question: Does the news headline talk about price in the future? No\n\nHeadline: \"spot gold quoted at $417.50, down 20c from new york\" Now answer this question: Does the news headline talk about a general event (apart from prices) in the past? No\n\nHeadline: \"gold hits new record high at $1,036.20 an ounce\" Now answer this question: Does the news headline compare gold with any other asset? No\n\nHeadline: \"gold may hit rs 31,500, but pullback rally may not sustain for long: experts\" Now answer this question: Does the news headline talk about price?",
+    "options": [
+      "No",
+      "Yes"
+    ],
+    "gold_index": 1,
+    "class_id": 0
+  },
+  {
+    "id": 1,
+    "input": "Headline: february gold rallies to intraday high of $900.50 an ounce\nQuestion: Does the news headline talk about price? Yes\n\nHeadline: gold closes 2.2% lower at $1,338.40 an ounce\nQuestion: Does the news headline talk about price in the past? Yes\n\nHeadline: Gold prices trading higher in Mumbai, Chennai market\nQuestion: Does the news headline talk about price in the past? Yes\n\nHeadline: government fixes rate at rs 2987/gm for sovereign gold bond\nQuestion: Does the news headline talk about price in the future? No\n\nHeadline: Gold dips on stronger dollar, speculative selling\nQuestion: Does the news headline talk about price staying constant? No\n\nHeadline: gold, silver cover lost ground, spurt on fresh demand\nQuestion: Does the news headline talk about a general event (apart from prices) in the future?",
+    "options": [
+      "No",
+      "Yes"
+    ],
+    "gold_index": 0,
+    "class_id": 7
+  }
+]
